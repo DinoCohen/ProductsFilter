@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Grocery",
+      "items": [
+        {
+          "id": 101,
+          "name": "Fruits",
+          "details": "A variety of fresh fruits",
+          "subitems": [
+            {
+              "id": 1011,
+              "name": "Apple",
+              "details": "Fresh red apples"
+            },
+            {
+              "id": 1012,
+              "name": "Banana",
+              "details": "Organic bananas"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Vegetables",
+          "details": "Fresh vegetables including leafy greens"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dairy",
+      "items": [
+        {
+          "id": 201,
+          "name": "Milk",
+          "details": "Full cream milk"
+        },
+        {
+          "id": 202,
+          "name": "Cheese",
+          "details": "Cheddar and mozzarella cheese",
+          "subitems": [
+            {
+              "id": 2021,
+              "name": "Cheddar",
+              "details": "Sharp cheddar cheese"
+            },
+            {
+              "id": 2022,
+              "name": "Mozzarella",
+              "details": "Fresh mozzarella cheese"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
