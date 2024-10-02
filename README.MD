@@ -18,19 +18,26 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 - run the commands to ensure installation succceeded
-  node -v
-  npm -v
+- node -v
+- npm -v
 
 ### Steps to install the application
 
-1. Clone the repository:
+1. Clone the repository in your terminal and run the command:
 
-   ```bash
    git clone https://github.com/DinoCohen/ProductsFilter.git
 
-   run the command
+2. Run the command (in both server and client):
+   npm install
    in both server and client
 
-   to run the server : nodemon server.js
-   to run the client : npm run serve
+3. Run the server:
+   command: nodemon server.js
+4. Run the client:
+   command: npm run serve
+
+5. Good luck!!!
+   for any questions you may call me.
+   ```
+
    ```
